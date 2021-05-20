@@ -84,7 +84,17 @@ h5 {
     padding-left: .5rem;
     padding-right: .5rem;
 }
-
+h2 {
+text-transform: uppercase;
+font-size: 3rem;
+margin: 0;
+letter-spacing: .25rem;
+color: darkred;
+text-shadow: .09375rem .09375rem .09375rem #000;
+font-family: 'Alfa Slab One', Garamond, serif;
+font-weight: normal;
+text-align: center;
+}
 /* Image & Figure */
 
 
