@@ -115,7 +115,10 @@ h3 {
     }   
 
 /* Section & Paragraph */
-
+section {
+    margin-top: .5rem;
+    display: block;
+}
 
 
 }
