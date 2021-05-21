@@ -140,6 +140,7 @@ img {
     margin-right: auto;
     max-width: 50rem;
 }
+
 figure {
     margin-bottom: 2rem;
 }
@@ -151,5 +152,14 @@ figcaption {
 
 
 /* Footer */
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-top-style: solid;
+    border border-top-width: 2rem;
+    border-top color: #333;
 
+}
 
