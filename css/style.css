@@ -149,17 +149,13 @@ img {
     margin-right: auto;
     max-width: 50rem;
 }
-
 figure {
     margin-bottom: 2rem;
 }
-
 figcaption {
     padding-top: .5rem;
     text-align: right;
 }
-
-
 /* Footer */
 footer {
     padding-top: 1rem;
@@ -169,6 +165,5 @@ footer {
     border-top-style: solid;
     border border-top-width: 2rem;
     border-top color: #333;
-
 }
 
