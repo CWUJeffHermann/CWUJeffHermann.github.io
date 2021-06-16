@@ -86,6 +86,7 @@ h3 {
         font-weight: normal;
         text-align: center;
     } 
+
 h4 {
         text-transform: uppercase;
         font-size: 1.5rem;
@@ -97,6 +98,14 @@ h4 {
         font-weight: normal;
         text-align: center;
         padding-bottom: 1.125rem;
+    }
+
+    h4.span {
+        padding-top: 0;
+        padding-bottom:0;
+        padding-left: .5rem;
+        padding-right: .5rem;
+
     }
     h5 {
         
@@ -131,7 +140,6 @@ p {
     text-align: left;
 }
 
-}
 /* Image & Figure */
 img {
     width: 100%;
@@ -144,9 +152,18 @@ img {
 figure {
     margin-bottom: 2rem;
 }
-
-
-
+figcaption {
+    padding-top: .5rem;
+    text-align: right;
+}
 /* Footer */
-
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-top-style: solid;
+    border border-top-width: 2rem;
+    border-top color: #333;
+}
 
